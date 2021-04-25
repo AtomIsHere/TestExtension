@@ -1,4 +1,4 @@
-package world.cepi.example
+package world.cepi.example.zombie
 
 import net.minestom.server.command.builder.Command
 import net.minestom.server.entity.Player

@@ -3,6 +3,7 @@ package world.cepi.example
 import net.minestom.server.MinecraftServer
 import net.minestom.server.entity.Player
 import net.minestom.server.extensions.Extension;
+import world.cepi.example.zombie.SpawnZombieCommand
 
 class ExampleExtension : Extension() {
 
